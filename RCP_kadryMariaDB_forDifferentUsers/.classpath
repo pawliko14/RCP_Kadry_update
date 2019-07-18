@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="img"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="//dataserver/Logistyka/Tosia/Projekty JAVA/biblioteki/hsqldb.jar"/>
+	<classpathentry exported="true" kind="lib" path="//dataserver/Logistyka/Tosia/Projekty JAVA/biblioteki/rs2xml.jar"/>
+	<classpathentry exported="true" kind="lib" path="//dataserver/Logistyka/Tosia/Projekty JAVA/biblioteki/mariadb-java-client-2.1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="//dataserver/Logistyka/Tosia/Projekty JAVA/biblioteki/jcalendar-1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="//dataserver/Logistyka/Tosia/Projekty JAVA/biblioteki/sqltool.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
